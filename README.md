@@ -2,6 +2,7 @@
 A simple RPG game in Java
 
 Name of the team:
+
 -Morales Soto Natalia 23280064
 
 -Lara Hernández Rodrigo Emiliano 23280031
