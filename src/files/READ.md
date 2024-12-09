@@ -1,1 +1,0 @@
-Saul paso Dinamica
